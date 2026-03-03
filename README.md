@@ -1,6 +1,11 @@
 # 💫 About Me:
 👋 Hi, I'm Ravi Prakash<br><br>🎓 MCA Student | 💻 Aspiring Software Developer | 🚀 Tech Enthusiast<br><br>Passionate about building scalable applications and continuously learning new technologies. I enjoy solving real-world problems through code and contributing to innovative projects.
 
+<!-- Snake Game Repo View -->
+
+<div align="center">
+  <img src="https://profile-readme-generator.com/assets/snake.svg" alt="Snake animation" />
+</div>
 
 ## 🌐 Socials:
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/https://www.linkedin.com/in/ravi-prakash-6b6312384/) [![email](https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white)](mailto:raviprakash914219@gmail.com) 
